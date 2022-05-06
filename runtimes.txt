@@ -1,0 +1,6 @@
+Run Time 0.547202
+Run Time 1.09815
+Run Time 2.20417
+Run Time 4.48515
+Run Time 8.92993
+Run Time 17.8401
